@@ -1,0 +1,7 @@
+https://www.y2mate.com/mates/en154/analyze/ajax reason: Unexpected token < in JSON at position 0
+    at /app/node_modules/node-fetch/lib/index.js:273:32
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async yt (/app/lib/y2mate.js:56:14)
+    at async XeonBotInc (/app/XeonCheems4.js:8357:34) {
+  type: 'invalid-json'
+}
